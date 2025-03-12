@@ -1,0 +1,112 @@
+[
+  {
+	"question": "You find a lost wallet on the street. What do you do?",
+	"answer": {
+	  "good": "Try to find the owner and return it.",
+	  "evil": "Take the money and toss the wallet."
+	},
+	"outcome": {
+	  "good": "You track down the owner and return the wallet intact. They’re grateful and might even offer you a reward—though, let’s be real, you’d have done it anyway.",
+	  "evil": "You pocket the cash and toss the wallet like yesterday’s trash. No consequences, no guilt—just a little extra spending money. Hey, finders keepers, right?"
+	}
+  },
+  {
+	"question": "A stray dog follows you home. What do you do?",
+	"answer": {
+	  "good": "Give it food and find it a home.",
+	  "evil": "Scare it away by throwing rocks."
+	},
+	"outcome": {
+	  "good": "The dog happily wags its tail as you feed it and call a shelter—or maybe you just keep it. Either way, congrats on being a good person and possibly gaining a new furry best friend!",
+	  "evil": "You chuck a rock, and the dog runs off, scared and confused. No barks, no bites—just a sad look as it disappears. But hey, at least your doorstep is dog-free, right?"
+	}
+  },
+  {
+	"question": "A little kid drops their ice cream. What do you do?",
+	"answer": {
+	  "good": "Buy them a new one.",
+	  "evil": "Laugh at them and walk away."
+	},
+	"outcome": {
+	  "good": "The kid’s eyes light up as they get a fresh scoop of ice cream. You’re officially their hero for the day. Feels nice, doesn’t it?",
+	  "evil": "The kid stares at their fallen ice cream, then at you, teary-eyed. You, however, are too busy chuckling at their misfortune. What a truly inspiring display of empathy."
+	}
+  },
+  {
+	"question": "You find an ancient, mysterious book in the library. What do you do?",
+	"answer": {
+	  "good": "Read it carefully and try to learn from it.",
+	  "evil": "Rip out a page just to see what happens."
+	},
+	"outcome": {
+	  "good": "You dive into the book’s knowledge, uncovering secrets long forgotten. Maybe it’s magic, maybe it’s just a history lesson—either way, you just got a little wiser.",
+	  "evil": "You tear out a page, and absolutely nothing happens. Except now a librarian somewhere has a mild but inexplicable hatred for you."
+	}
+  },
+  {
+	"question": "You’re walking down the street and see someone trip and fall. What do you do?",
+	"answer": {
+	  "good": "Help them up and make sure they’re okay.",
+	  "evil": "Point and laugh before walking away."
+	},
+	"outcome": {
+	  "good": "You help them up, and they give you a grateful nod. You feel a small sense of pride in your action and suddendly the day just feels brighter.",
+		"evil": "You laugh so hard you almost trip yourself. That was genuinely hilarious. The way they flailed? Priceless. No regrets—comedy gold like that doesn’t come around every day."
+	}
+  },
+  {
+	"question": "Your friend asks if their outfit looks good, but it really doesn’t. What do you do?",
+	"answer": {
+	  "good": "Gently suggest a different option.",
+	  "evil": "Lie and say it looks amazing just to see what happens."
+	},
+	"outcome": {
+	  "good": "They appreciate your honesty and end up choosing a better outfit. Crisis averted, and you remain a trusted fashion advisor.",
+	  "evil": "They walk out confidently, completely unaware of the disaster they’re wearing. You, meanwhile, get to enjoy the aftermath of your little social experiment."
+	}
+  },
+  {
+	"question": "You’re at a crosswalk and the light is about to change. What do you do?",
+	"answer": {
+	  "good": "Wait patiently for the next light.",
+	  "evil": "Sprint across like it’s an action movie."
+	},
+	"outcome": {
+	  "good": "You wait like a responsible adult. Boring? Maybe. But also much less likely to involve a hospital visit.",
+	  "evil": "You make it across just in time, heart pounding like you just outran a car chase. Was it reckless? Absolutely. Did it look cool? Hell yeah!"
+	}
+  },
+  {
+	"question": "You’re at a party, and someone brings out a karaoke machine. What do you do?",
+	"answer": {
+	  "good": "Join in and sing a fun song.",
+	  "evil": "Pick the longest song possible just to make everyone suffer."
+	},
+	"outcome": {
+	  "good": "You belt out a tune, and whether you’re amazing or awful, everyone has a good time. Look at you, being the life of the party!",
+	  "evil": "You choose an absolute marathon of a song, and now everyone is stuck listening to you for the next eight minutes. Well played, you absolute menace."
+	}
+  },
+{
+  "question": "You're in a crowded elevator, and you feel a sneeze coming. What do you do?",
+  "answer": {
+	"good": "Hold it in or sneeze into your elbow.",
+	"evil": "Let it rip, no coverage, no shame."
+  },
+  "outcome": {
+	"good": "You keep it classy, containing the explosion like a true professional. No one glares at you, and you walk out of the elevator with your dignity intact.",
+	"evil": "You unleash it with full force. The silence afterward is deafening. The fear in their eyes? Incredible. You have established dominance."
+  }
+},
+{
+  "question": "You're driving, and someone is waiting to cross the street. What do you do?",
+  "answer": {
+	"good": "Stop and let them cross.",
+	"evil": "Speed up slightly just to make them hesitate."
+  },
+  "outcome": {
+	"good": "You stop, they cross, and they give you a little wave of gratitude. How nice of them.",
+	"evil": "You don’t actually hit them, but the way they do that awkward ‘should I go or not’ shuffle is pure entertainment. Power move executed flawlessly."
+  }
+}
+]
